@@ -1,6 +1,8 @@
 """Generate sales report showing total melons each salesperson sold."""
 
-
+"""
+Have created a new sales report: updated_sales_report with the changes suggested in this report.
+"""
 # Create blank lists for salespeople and the melons sold 
 
 
